@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PracticeWithMasterPage.master.cs" Inherits="_5Practice.PracticeWithMasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            This is Master page content!<br />
+            <br />
+&nbsp;<asp:ContentPlaceHolder ID="ContentPlaceHolderChangeable" runat="server">
+                This is Master page
+            </asp:ContentPlaceHolder>
+            <br/>
+            <br />
+            <asp:ContentPlaceHolder ID="ContentPlaceHolderChildPlace" runat="server">
+            </asp:ContentPlaceHolder>
+            
+            
+        </div>
+    </form>
+</body>
+</html>

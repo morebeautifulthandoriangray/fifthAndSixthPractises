@@ -1,0 +1,9 @@
+D:\Programming\ASP.NET\5Practice\DataBaseWindowsFormsApp\bin\Debug\DataBaseWindowsFormsApp.exe.config
+D:\Programming\ASP.NET\5Practice\DataBaseWindowsFormsApp\bin\Debug\DataBaseWindowsFormsApp.exe
+D:\Programming\ASP.NET\5Practice\DataBaseWindowsFormsApp\bin\Debug\DataBaseWindowsFormsApp.pdb
+D:\Programming\ASP.NET\5Practice\DataBaseWindowsFormsApp\obj\Debug\DataBaseWindowsFormsApp.csproj.AssemblyReference.cache
+D:\Programming\ASP.NET\5Practice\DataBaseWindowsFormsApp\obj\Debug\DataBaseWindowsFormsApp.Properties.Resources.resources
+D:\Programming\ASP.NET\5Practice\DataBaseWindowsFormsApp\obj\Debug\DataBaseWindowsFormsApp.csproj.GenerateResource.cache
+D:\Programming\ASP.NET\5Practice\DataBaseWindowsFormsApp\obj\Debug\DataBaseWindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Programming\ASP.NET\5Practice\DataBaseWindowsFormsApp\obj\Debug\DataBaseWindowsFormsApp.exe
+D:\Programming\ASP.NET\5Practice\DataBaseWindowsFormsApp\obj\Debug\DataBaseWindowsFormsApp.pdb
